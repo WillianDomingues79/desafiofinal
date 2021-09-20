@@ -6,6 +6,7 @@
 
 ### Compiles and hot-reloads for development
 ```
+npm i -> Reinstalar o node_modules
 npm run serve -> Rodar o Vue.js
 npm run start -> Rodar o Banco
 ```
